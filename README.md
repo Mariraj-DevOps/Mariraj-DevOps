@@ -1,7 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,8,9,13&height=300&section=header&text=MARIRAJ&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Docker%20%7C%20Kubernetes%20%7C%20CI%2FCD&descSize=16&descAlignY=65&stroke=ffffff&strokeWidth=2)
 
 <div align="center">
-
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,9,13&height=250&section=header&text=MARIRAJ&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cloud%20DevOps%20Engineer&descAlignY=55&descSize=18)
+</div>
+  
 [![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&height=50&lines=%F0%9F%9B%A0%EF%B8%8F+DevOps+Engineer+%7C+Cloud+Architect;%E2%98%81%EF%B8%8F+AWS+EC2+%7C+S3+%7C+EKS+%7C+Lambda+%7C+ALB+%7C+NLB;%F0%9F%90%B3+Docker+%7C+Kubernetes+%7C+Helm+%7C+ArgoCD;%F0%9F%94%81+Jenkins+%7C+GitHub+Actions+%7C+GitOps+Pipelines;%F0%9F%93%8A+Prometheus+%7C+Grafana+%7C+MetalLB+Monitoring)](https://git.io/typing-svg)
 
 </div>
@@ -164,17 +166,7 @@ motto:     "Automate the boring. Scale the exciting."
 
 </div>
 
----
 
-<!-- TROPHIES -->
-
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-[![trophies](https://github-profile-trophy.vercel.app/?username=Mariraj-DevOps&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=4)](https://github.com/Mariraj-DevOps)
-
-</div>
 
 ---
 
