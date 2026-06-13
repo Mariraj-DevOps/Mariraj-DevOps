@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&height=50&lines=🛠️+DevOps+Engineer+%7C+Cloud+Architect;☁️+AWS+EC2+%7C+S3+%7C+EKS+%7C+Lambda+%7C+ALB+%7C+NLB;🐳+Docker+%7C+Kubernetes+%7C+Helm+%7C+ArgoCD;🔁+Jenkins+%7C+GitHub+Actions+%7C+GitOps+Pipelines;📊+Prometheus+%7C+Grafana+%7C+MetalLB+Monitoring)](https://git.io/typing-svg)
+[![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&height=50&lines=%F0%9F%9B%A0%EF%B8%8F+DevOps+Engineer+%7C+Cloud+Architect;%E2%98%81%EF%B8%8F+AWS+EC2+%7C+S3+%7C+EKS+%7C+Lambda+%7C+ALB+%7C+NLB;%F0%9F%90%B3+Docker+%7C+Kubernetes+%7C+Helm+%7C+ArgoCD;%F0%9F%94%81+Jenkins+%7C+GitHub+Actions+%7C+GitOps+Pipelines;%F0%9F%93%8A+Prometheus+%7C+Grafana+%7C+MetalLB+Monitoring)](https://git.io/typing-svg)
 
 </div>
 
@@ -148,7 +148,7 @@ motto:     "Automate the boring. Scale the exciting."
 
 ### 🔥 Contribution Streak
 
-[![streak](https://streak-stats.demolab.com?user=Mariraj-DevOps&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF&sideLabels=FF6B6B&dates=8B949E&currStreakNum=FFFFFF&sideNums=C9D1D9&stroke=0D1117&border_radius=12)](https://git.io/streak-stats)
+[![streak](https://streak-stats.demolab.com?user=Mariraj-DevOps&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=00D9FF&amp;fire=7C3AED&amp;currStreakLabel=00D9FF&amp;sideLabels=FF6B6B&amp;dates=8B949E&amp;currStreakNum=FFFFFF&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=12)](https://git.io/streak-stats)
 
 </div>
 
@@ -160,7 +160,7 @@ motto:     "Automate the boring. Scale the exciting."
 
 ### 📈 Activity Graph
 
-[![activity](https://github-readme-activity-graph.vercel.app/graph?username=Mariraj-DevOps&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=7c3aed&point=ff6b6b&area=true&hide_border=true&radius=12)](https://github.com/Mariraj-DevOps)
+[![activity](https://github-readme-activity-graph.vercel.app/graph?username=Mariraj-DevOps&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=00d9ff&amp;line=7c3aed&amp;point=ff6b6b&amp;area=true&amp;hide_border=true&amp;radius=12)](https://github.com/Mariraj-DevOps)
 
 </div>
 
@@ -172,7 +172,7 @@ motto:     "Automate the boring. Scale the exciting."
 
 ### 🏆 GitHub Trophies
 
-[![trophies](https://github-profile-trophy.vercel.app/?username=Mariraj-DevOps&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/Mariraj-DevOps)
+[![trophies](https://github-profile-trophy.vercel.app/?username=Mariraj-DevOps&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=4)](https://github.com/Mariraj-DevOps)
 
 </div>
 
@@ -267,3 +267,4 @@ motto:     "Automate the boring. Scale the exciting."
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,9,13&height=150&section=footer&text=Let%27s%20Build%20%26%20Deploy%20Together!&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=65)
 
 </div>
+```
