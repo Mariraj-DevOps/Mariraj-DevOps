@@ -1,91 +1,74 @@
-<!-- HERO -->
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,8,9,13&height=300&section=header&text=MARIRAJ&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Docker%20%7C%20Kubernetes%20%7C%20CI%2FCD&descSize=16&descAlignY=65&stroke=ffffff&strokeWidth=2)
+
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=MARIRAJ&fontAlign=50&fontAlignY=45&fontSize=60&fontColor=ffffff&animation=blinking&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Docker%20%7C%20CI%2FCD&descAlign=50&descAlignY=68&descSize=16)
+[![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&height=50&lines=🛠️+DevOps+Engineer+%7C+Cloud+Architect;☁️+AWS+EC2+%7C+S3+%7C+EKS+%7C+Lambda+%7C+ALB+%7C+NLB;🐳+Docker+%7C+Kubernetes+%7C+Helm+%7C+ArgoCD;🔁+Jenkins+%7C+GitHub+Actions+%7C+GitOps+Pipelines;📊+Prometheus+%7C+Grafana+%7C+MetalLB+Monitoring)](https://git.io/typing-svg)
 
 </div>
-
-<!-- TYPING -->
-<div align="center">
-
-[![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=800&height=55&lines=🛠️+DevOps+Engineer+%7C+Cloud+Architect;☁️+AWS+%7C+Docker+%7C+Kubernetes;🔁+CI%2FCD+Pipeline+Automation+Specialist;🐧+Linux+%7C+Git+%7C+Infrastructure+as+Code;🚀+Building+Scalable+Cloud+Systems)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
 
 <div align="center">
 
 ![views](https://komarev.com/ghpvc/?username=Mariraj-DevOps&color=00d9ff&style=flat-square&label=PROFILE+VIEWS)
-![followers](https://img.shields.io/github/followers/Mariraj-DevOps?style=flat-square&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
 
 </div>
 
-<br/>
-
 ---
 
-<!-- ABOUT ME - INFRASTRUCTURE CARD STYLE -->
+<!-- ABOUT ME -->
 
-<table>
-<tr>
-<td valign="top" width="55%">
+<img align="right" alt="devops" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ### 🖥️ `$ cat mariraj.yaml`
 
 ```yaml
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-#  MARIRAJ — Cloud & DevOps Engineer
+#   MARIRAJ — Cloud & DevOps Engineer
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-name:        "Mariraj"
-role:        "Cloud & DevOps Engineer"
-location:    "Tuticorin, Tamil Nadu 🇮🇳"
-degree:      "BCA — Kamaraj College (2023-2026)"
-email:       "marirajoffcl@gmail.com"
+name:      "Mariraj"
+role:      "Cloud & DevOps Engineer"
+location:  "Tuticorin, Tamil Nadu, India"
+degree:    "BCA — Kamaraj College (2023-2026)"
+email:     "marirajoffcl@gmail.com"
 
-cloud_stack:
-  - AWS
-  - Docker
-  - Kubernetes (Fundamentals)
-  - Linux
-  - CI/CD Pipelines
+cloud:
+  provider:  AWS
+  services:  [EC2, S3, VPC, IAM, RDS, Lambda,
+              ALB, NLB, EKS, CloudFormation]
+
+devops:
+  containers:    [Docker, Kubernetes, Helm]
+  cicd:          [Jenkins, GitHub Actions, ArgoCD]
+  monitoring:    [Prometheus, Grafana, MetalLB]
+  os:            Linux
 
 dev_stack:
-  - Python
-  - JavaScript
-  - React.js
-  - Node.js
-  - PostgreSQL
-  - MySQL
+  languages:     [Python, JavaScript, HTML, CSS]
+  frameworks:    [React.js, Node.js]
+  databases:     [PostgreSQL, MySQL]
 
-currently_leveling_up:
-  - AWS Solutions Architect
-  - Kubernetes Orchestration
-  - Infrastructure as Code (IaC)
-  - DevSecOps Practices
+currently_pursuing:
+  - AWS Solutions Architect Certification
+  - Advanced Kubernetes (CKA)
+  - Infrastructure as Code — Terraform
 
-status:      "Open to DevOps / Cloud Roles 🚀"
+status:    "Open to DevOps / Cloud Roles 🚀"
+motto:     "Automate the boring. Scale the exciting."
 ```
 
-</td>
-<td valign="top" width="45%">
+<br clear="right"/>
 
-<br/><br/><br/>
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
+<!-- CONNECT -->
 
 <div align="center">
 
-[![portfolio](https://img.shields.io/badge/-Portfolio-0f0c29?style=for-the-badge&amp;logo=vercel&amp;logoColor=00D9FF)](https://mariraj-portfolio-dev.vercel.app/)
-[![email](https://img.shields.io/badge/-Email-0f0c29?style=for-the-badge&amp;logo=gmail&amp;logoColor=FF6B6B)](mailto:marirajoffcl@gmail.com)
-[![github](https://img.shields.io/badge/-GitHub-0f0c29?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Mariraj-DevOps)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=00D9FF)](https://mariraj-portfolio-dev.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=FF6B6B)](mailto:marirajoffcl@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mariraj-DevOps)
 
 </div>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -95,18 +78,36 @@ status:      "Open to DevOps / Cloud Roles 🚀"
 
 ### ⚡ Tech Stack
 
-<br/>
+**☁️ AWS Cloud Services**
 
-**☁️ Cloud & DevOps**
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-326CE5?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![ALB](https://img.shields.io/badge/ALB-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![NLB](https://img.shields.io/badge/NLB-00A1C9?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+**🐳 Containers & Orchestration**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-6DB33F?style=for-the-badge&logo=jenkins&logoColor=white)
 
-<br/>
+**🔁 CI/CD & GitOps**
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**📊 Monitoring**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 **💻 Development**
 
@@ -114,17 +115,8 @@ status:      "Open to DevOps / Cloud Roles 🚀"
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-<br/>
-
-**🗄️ Databases**
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-<br/>
 
 **🛠️ Tools**
 
@@ -143,8 +135,8 @@ status:      "Open to DevOps / Cloud Roles 🚀"
 
 ### 📊 GitHub Stats
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mariraj-DevOps&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=c9d1d9&border_radius=12"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariraj-DevOps&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8&border_radius=12"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Mariraj-DevOps&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=00d9ff&amp;icon_color=7c3aed&amp;text_color=c9d1d9&amp;border_radius=12"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariraj-DevOps&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00d9ff&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=12"/>
 
 </div>
 
@@ -154,7 +146,7 @@ status:      "Open to DevOps / Cloud Roles 🚀"
 
 <div align="center">
 
-### 🔥 Streak
+### 🔥 Contribution Streak
 
 [![streak](https://streak-stats.demolab.com?user=Mariraj-DevOps&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF&sideLabels=FF6B6B&dates=8B949E&currStreakNum=FFFFFF&sideNums=C9D1D9&stroke=0D1117&border_radius=12)](https://git.io/streak-stats)
 
@@ -166,7 +158,7 @@ status:      "Open to DevOps / Cloud Roles 🚀"
 
 <div align="center">
 
-### 📈 Contribution Graph
+### 📈 Activity Graph
 
 [![activity](https://github-readme-activity-graph.vercel.app/graph?username=Mariraj-DevOps&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=7c3aed&point=ff6b6b&area=true&hide_border=true&radius=12)](https://github.com/Mariraj-DevOps)
 
@@ -178,7 +170,7 @@ status:      "Open to DevOps / Cloud Roles 🚀"
 
 <div align="center">
 
-### 🏆 Trophies
+### 🏆 GitHub Trophies
 
 [![trophies](https://github-profile-trophy.vercel.app/?username=Mariraj-DevOps&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/Mariraj-DevOps)
 
@@ -191,14 +183,11 @@ status:      "Open to DevOps / Cloud Roles 🚀"
 ### 💼 Experience
 
 <details>
-<summary><b>☁️ Cloud Computing Intern — Edutantr</b> &nbsp;|&nbsp; 2025 · 3 months &nbsp;|&nbsp; 📍 Remote</summary>
-
+<summary><b>☁️ Cloud Computing Intern — Edutantr</b> | 2025 · 3 months | Remote</summary>
 <br/>
 
-> `AWS` &nbsp; `Cloud Deployment` &nbsp; `Linux` &nbsp; `DevOps Workflows` &nbsp; `Shell Scripting`
-
-- ☁️ Hands-on experience with cloud services including compute, storage, and networking on AWS.
-- 🔧 Explored DevOps workflows — environment setup, CI/CD basics, and automated deployments.
+- ☁️ Hands-on experience with AWS services including EC2, S3, VPC, and deployment workflows.
+- 🔧 Explored core DevOps practices — environment setup, CI/CD basics, and automated deployments.
 - 🐧 Worked in Linux environments, practised shell scripting and service configuration.
 - 📦 Deployed and monitored cloud-hosted applications, building real infrastructure skills.
 
@@ -208,14 +197,15 @@ status:      "Open to DevOps / Cloud Roles 🚀"
 
 <!-- PROJECTS -->
 
-### 🚀 Projects
+### 🚀 Featured Projects
 
 <div align="center">
 
-| Project | Stack | Description |
+| Project | Stack | Highlights |
 |:---|:---|:---|
-| 🥣 **Ration Track** | React.js · Node.js · PostgreSQL | Digital ration distribution management system — tracks user records, ration details and distribution history with a secure database. |
-| 🔁 **CI/CD Pipeline Automation** | Docker · GitHub Actions · CI/CD | End-to-end automated DevOps pipeline: automated build → test → Dockerise → deploy, zero manual steps from commit to production. |
+| 🏨 **Hostel Management System — K8s Microservices** | Docker · Kubernetes · Helm · Jenkins · ArgoCD · Prometheus · Grafana · MetalLB | Designed and deployed a full hostel management app on microservices architecture. Containerised React frontend, Node.js services and PostgreSQL with Docker. Managed with Kubernetes, Helm, Jenkins CI/CD and Argo CD. Monitoring via Prometheus and Grafana with MetalLB load balancing. |
+| 🥣 **Ration Track** | React.js · Node.js · PostgreSQL | Digital ration distribution management system — tracks user records, ration details and distribution history with a secure database backend. |
+| 🔁 **CI/CD Pipeline Automation** | Docker · GitHub Actions · CI/CD | End-to-end automated DevOps pipeline — build, test, Dockerise, deploy with zero manual steps from commit to production. |
 
 </div>
 
@@ -229,11 +219,11 @@ status:      "Open to DevOps / Cloud Roles 🚀"
 
 | | Highlight | Detail |
 |:---:|:---|:---|
-| 🎓 | **BCA Graduate** | Kamaraj College, Tuticorin — 2023 to 2026 |
-| ☁️ | **Cloud Internship** | 3-month cloud computing internship at Edutantr |
-| 🔁 | **DevOps Pipeline** | Built fully automated end-to-end CI/CD pipeline with Docker |
-| 🌐 | **Full-Stack Project** | Ration Track — production-deployed web application |
-| 💼 | **Live Portfolio** | [mariraj-portfolio-dev.vercel.app](https://mariraj-portfolio-dev.vercel.app/) |
+| 🎓 | BCA Graduate | Kamaraj College, Tuticorin — 2023 to 2026 |
+| ☁️ | Cloud Internship | 3-month cloud computing internship at Edutantr |
+| ☸️ | Kubernetes Microservices Project | Full hostel management system on K8s with Helm, Jenkins, ArgoCD, Prometheus and Grafana |
+| 🔁 | CI/CD Pipeline | Fully automated end-to-end DevOps pipeline with Docker and GitHub Actions |
+| 🌐 | Live Portfolio | [mariraj-portfolio-dev.vercel.app](https://mariraj-portfolio-dev.vercel.app/) |
 
 </div>
 
@@ -247,7 +237,7 @@ status:      "Open to DevOps / Cloud Roles 🚀"
 
 | Degree | Institution | Period |
 |:---|:---|:---:|
-| 🖥️ Bachelor of Computer Applications (BCA) | Kamaraj College, Tuticorin | 2023 – 2026 |
+| Bachelor of Computer Applications (BCA) | Kamaraj College, Tuticorin | 2023 – 2026 |
 
 </div>
 
@@ -258,12 +248,12 @@ status:      "Open to DevOps / Cloud Roles 🚀"
 ### 📚 Currently Learning
 
 ```
-☁️  AWS Solutions Architect   →  EC2 · S3 · VPC · IAM · RDS · CloudFormation
-🐳  Docker Advanced           →  Multi-stage Builds · Swarm · Networking
-☸️  Kubernetes                →  Pods · Deployments · Services · Helm
-🔁  CI/CD Deep Dive           →  Jenkins · ArgoCD · GitOps Patterns
-🐧  Linux Administration      →  Shell Scripting · Cron · System Hardening
-🔐  DevSecOps                 →  Secrets Management · Container Security
+☁️  AWS Advanced         →  Lambda · ALB · NLB · EKS · CloudFormation · Cost Optimisation
+☸️  Kubernetes (CKA)     →  Pods · Deployments · Services · Helm · RBAC · Network Policies
+🔁  GitOps               →  ArgoCD · Jenkins Pipelines · GitHub Actions · Blue-Green Deploys
+📊  Observability        →  Prometheus · Grafana · Alert Manager · Distributed Tracing
+🏗️  IaC                  →  Terraform · AWS CloudFormation · Ansible
+🔐  DevSecOps            →  Secrets Management · Container Scanning · SAST / DAST
 ```
 
 ---
@@ -272,8 +262,8 @@ status:      "Open to DevOps / Cloud Roles 🚀"
 
 **"Automate the boring. Scale the exciting. 🚀"**
 
+<br/>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,9,13&height=150&section=footer&text=Let%27s%20Build%20%26%20Deploy%20Together!&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=65)
+
 </div>
-
-<!-- FOOTER -->
-
-![footer](https://capsule-render.vercel.app/api?type=cylinder&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&animation=blinking)
