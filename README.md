@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,8,9,13&height=300&section=header&text=MARIRAJ&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Docker%20%7C%20Kubernetes%20%7C%20CI%2FCD&descSize=16&descAlignY=65&stroke=ffffff&strokeWidth=2)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gnana%20Subashini&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Software%20Developer%20%7C%20MCA%20Graduate%20%7C%20Full-Stack%20Enthusiast&descAlignY=62&descSize=16)
 
 <div align="center">
 
@@ -264,6 +264,7 @@ motto:     "Automate the boring. Scale the exciting."
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,9,13&height=150&section=footer&text=Let%27s%20Build%20%26%20Deploy%20Together!&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=65)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
+
 
 </div>
