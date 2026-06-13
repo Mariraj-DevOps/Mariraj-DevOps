@@ -255,8 +255,8 @@ motto:     "Automate the boring. Scale the exciting."
 **"Automate the boring. Scale the exciting. 🚀"**
 
 <br/>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,9,13&height=150&section=footer&text=Let%27s%20Build%20%26%20Deploy%20Together!&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=65)
+<div align="center">
+  
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,9,13&height=120&section=footer&animation=twinkling)
 
 </div>
-```
